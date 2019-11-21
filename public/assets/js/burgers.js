@@ -60,4 +60,4 @@ $(".trashburger").on("click", function (event){
  });
 
  // Export routes for server.js to use.
-module.exports = router;
+// module.exports = router;

@@ -1,4 +1,4 @@
-var connection = require("../config/connection");
+var connection = require("./connection");
 
 function printQuestionMarks(num) {
     var arr = [];
@@ -98,5 +98,5 @@ var orm = {
   };
   
   // Export the orm object for the model 
-  module.exports = router;
+  module.exports = orm;
   

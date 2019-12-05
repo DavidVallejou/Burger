@@ -20,3 +20,9 @@ app.listen(PORT, function() {
     console.log("Server listening on: http://localhost:" + PORT);
 
 });
+
+// var controller = require("./controllers/burger_controller.js");
+// var burger = require("./models/burger.js")
+// controller(app);
+
+// //burger_name,callback
